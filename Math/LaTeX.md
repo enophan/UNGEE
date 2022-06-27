@@ -6,6 +6,10 @@
 >
 > [(20条消息) 在 Markdown(.md)文件中写入各种漂亮的 LaTex公式_CaptainD_W的博客-CSDN博客](https://blog.csdn.net/CaptainD_W/article/details/116570636?spm=1001.2101.3001.6661.1&utm_medium=distribute.pc_relevant_t0.none-task-blog-2~default~CTRLIST~default-1-116570636-blog-108834369.pc_relevant_aa&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-2~default~CTRLIST~default-1-116570636-blog-108834369.pc_relevant_aa&utm_relevant_index=1)
 
+> 函数图像生成器：https://www.geogebra.org/
+
+> 文档：[在线LaTeX公式编辑器-帮助文档 (latexlive.com)](https://www.latexlive.com/help)
+
 分号$\frac{1}{2}$：`\frac`
 
 ### 对数
