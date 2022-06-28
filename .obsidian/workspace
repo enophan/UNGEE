@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Math/高数/基础式子.md",
+            "file": "Math/高数/01 函数 极限 连续.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/高数/基础式子.md",
+                "file": "Math/高数/01 函数 极限 连续.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,8 +88,9 @@
   },
   "active": "fbb34e4e48945366",
   "lastOpenFiles": [
-    "Math/高数/基础式子.md",
     "Math/高数/01 函数 极限 连续.md",
+    "Math/高数/00 绪.md",
+    "Math/高数/基础式子.md",
     "Math/LaTeX.md"
   ]
 }
