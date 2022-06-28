@@ -1,0 +1,95 @@
+{
+  "main": {
+    "id": "e4f91cb3c9159d97",
+    "type": "split",
+    "children": [
+      {
+        "id": "fbb34e4e48945366",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Math/高数/基础式子.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e43d26318785ae7c",
+    "type": "split",
+    "children": [
+      {
+        "id": "29254c4cfb4c4200",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c7b6d7b569fcab0f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "d7b3f1caa76d0acf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2b9effcebd4acbf5",
+    "type": "split",
+    "children": [
+      {
+        "id": "c90267285b1db646",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9964b2179d4217bf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Math/高数/基础式子.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "fbb34e4e48945366",
+  "lastOpenFiles": [
+    "Math/高数/基础式子.md",
+    "Math/高数/01 函数 极限 连续.md",
+    "Math/LaTeX.md"
+  ]
+}
