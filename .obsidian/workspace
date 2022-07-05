@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Math/高数/错题本/错题原因及解决.md",
+            "file": "Math/高数/概念笔记/01 极限.md",
             "mode": "preview",
             "source": false
           }
@@ -69,8 +69,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/高数/错题本/错题原因及解决.md",
-                "collapseAll": false,
+                "file": "Math/高数/概念笔记/01 极限.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -89,8 +89,10 @@
   },
   "active": "fbb34e4e48945366",
   "lastOpenFiles": [
-    "Math/高数/错题本/错题原因及解决.md",
+    "Math/高数/概念笔记/01 极限.md",
+    "Math/高数/概念笔记/01 函数.md",
     "Math/高数/错题本/错题索引.md",
+    "Math/高数/错题本/错题原因及解决.md",
     "Math/高数/错题索引.md",
     "Math/高数/错题原因及解决.md",
     "Math/高数/01 函数 极限 连续.md",
