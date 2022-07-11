@@ -1,6 +1,6 @@
 {
   "alwaysUpdateLinks": true,
-  "legacyEditor": true,
+  "legacyEditor": false,
   "defaultViewMode": "preview",
   "showLineNumber": true
 }

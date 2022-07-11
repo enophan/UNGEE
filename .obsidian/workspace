@@ -9,47 +9,11 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Math/高数/概念笔记/01 极限.md",
-            "mode": "preview"
+            "file": "Math/高数/题型总结/极限.md",
+            "mode": "preview",
+            "source": false
           }
-        },
-        "group": "c54afe45c15f78de"
-      },
-      {
-        "id": "2f6fd0b0f6da7d41",
-        "type": "leaf",
-        "state": {
-          "type": "localgraph",
-          "state": {
-            "file": "Math/高数/概念笔记/01 极限.md",
-            "options": {
-              "collapse-filter": true,
-              "search": "",
-              "localJumps": 1,
-              "localBacklinks": true,
-              "localForelinks": true,
-              "localInterlinks": false,
-              "showTags": false,
-              "showAttachments": false,
-              "hideUnresolved": false,
-              "collapse-color-groups": true,
-              "colorGroups": [],
-              "collapse-display": true,
-              "showArrow": false,
-              "textFadeMultiplier": 0,
-              "nodeSizeMultiplier": 1,
-              "lineSizeMultiplier": 1,
-              "collapse-forces": true,
-              "centerStrength": 0.518713248970312,
-              "repelStrength": 10,
-              "linkStrength": 1,
-              "linkDistance": 250,
-              "scale": 1,
-              "close": false
-            }
-          }
-        },
-        "group": "c54afe45c15f78de"
+        }
       }
     ],
     "direction": "vertical"
@@ -105,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/高数/概念笔记/01 极限.md",
+                "file": "Math/高数/题型总结/极限.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,17 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2f6fd0b0f6da7d41",
+  "active": "fbb34e4e48945366",
   "lastOpenFiles": [
+    "Math/高数/题型总结/极限.md",
+    "Math/高数/解题思路.md",
+    "Math/高数/待总结.md",
     "Math/高数/概念笔记/01 极限.md",
     "Math/高数/概念笔记/01 函数.md",
     "Math/高数/错题本/错题索引.md",
-    "Math/高数/题型总结/极限.md",
     "Math/高数/错题本/错题原因及解决.md",
     "Math/高数/错题索引.md",
     "Math/高数/错题原因及解决.md",
-    "Math/高数/01 函数 极限 连续.md",
-    "Math/高数/00 绪.md",
-    "Math/高数/基础式子.md"
+    "Math/高数/01 函数 极限 连续.md"
   ]
 }
